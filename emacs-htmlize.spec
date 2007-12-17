@@ -14,7 +14,6 @@ License: 	GPL
 Group: 		Editors
 BuildRequires:  emacs
 BuildArch:	noarch
-BuildRoot: 	%_tmppath/%name-buildroot
 
 %description
 This package analyzes the text properties of the buffer and converts
