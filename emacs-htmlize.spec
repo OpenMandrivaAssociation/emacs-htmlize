@@ -1,7 +1,7 @@
 %define rname 	htmlize
 %define name 	emacs-%rname
 %define version 1.16
-%define release  %mkrel 4
+%define release  %mkrel 5
 
 Summary: 	HTML-ize font-lock buffers
 Name: 		%name
