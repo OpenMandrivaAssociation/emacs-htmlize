@@ -9,7 +9,7 @@ Version:	%{version}
 Release: 	%{release}
 Epoch:		0
 Group: 		Editors
-Url:		http://fly.srk.fer.hr/~hniksic/emacs/
+Url:		https://fly.srk.fer.hr/~hniksic/emacs/
 Source0: 	%{url}%{rname}.el.lzma
 License: 	GPLv2+
 BuildArch:	noarch
