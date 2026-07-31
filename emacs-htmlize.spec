@@ -1,6 +1,6 @@
 %define rname 	htmlize
 %define name 	emacs-%{rname}
-%define version 1.37
+%define version 1.59
 %define release  3
 
 Summary: 	HTML-ize font-lock buffers
@@ -101,7 +101,7 @@ emacs -batch -q -no-site-file -f batch-byte-compile %{rname}.el
 * Mon Sep  9 2002 Arnaud Desmons <adesmons@mandrakesoft.com> 0.67-4mdk
 - added packager name
 
-* Fri Jun 21 2002 Götz Waschk <waschk@linux-mandrake.com> 0.67-3mdk
+* Fri Jun 21 2002 Gï¿½tz Waschk <waschk@linux-mandrake.com> 0.67-3mdk
 - buildrequires emacs-bin
 
 * Thu Jun 20 2002 Olivier Thauvin <thauvin@aerov.jussieu.fr> 0.67-2mdk
